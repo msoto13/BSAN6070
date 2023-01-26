@@ -1,1 +1,1 @@
-# BSAN6070
+# BSAN6070 computer assignments
