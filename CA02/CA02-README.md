@@ -1,7 +1,7 @@
 CA02: Spam Email Detection using Naive Bayes Algorithm
 
 Overview:
-This exercise trains the model with set of emails labelled as either from Spam or Not Spam. There are 702 emails equally divided into spam and non spam category. I test the model on 260 emails. Lastly, I ask the model to predict the category of this emails and compare the accuracy with correct classification.
+This exercise trains the model with set of emails labelled as either from Spam or Not Spam. There are emails equally divided into spam and non spam category, and the model is tested on the classification. Lastly, I ask the model to predict the category of this emails and compare the accuracy with correct classification.
 
 Runtime:
 It takes a few minutes to run the notebook, so please be patient!
