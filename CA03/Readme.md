@@ -1,4 +1,4 @@
-#CA03 - Decision Tree Algorithm
+CA03 - Decision Tree Algorithm
 
 This program detects whether someone's income is above or below $50K/yr based on demographic data
 
