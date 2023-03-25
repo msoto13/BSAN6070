@@ -3,13 +3,14 @@ CA05 – kNN Movie Recommender
 Data Source and Contents:
   Have you ever come across a film and wanted to know what other films it resembles based on the genre? We can actually create a recommender system to give   us recommended movies based on genre information from any given film.
 
-The sample dataset we will be using is obtained from the following url in csv format:
 
 Use the GitHub link in your Python code to “read” the data into a Data frame.
 
     movies = pd.read_csv('https://github.com/ArinB/MSBA-CA-Data/raw/main/CA05/movies_recommendation_data.csv')  
 
+
 Runtime: <1 minute
+
 
 Steps:
 1. Read in data and import necessary packages 
