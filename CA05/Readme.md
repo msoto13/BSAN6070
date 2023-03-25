@@ -5,7 +5,7 @@ Data Source and Contents:
 
 The sample dataset we will be using is obtained from the following url in csv format:
 
-"https://github.com/ArinB/CA05-kNN/raw/master/movies_recommendation_data.csv” Use the GitHub link in your Python code to “read” the data into a Data frame.
+Use the GitHub link in your Python code to “read” the data into a Data frame.
 
     movies = pd.read_csv('https://github.com/ArinB/MSBA-CA-Data/raw/main/CA05/movies_recommendation_data.csv')  
 
