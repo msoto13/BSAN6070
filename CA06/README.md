@@ -2,7 +2,7 @@ Customer Segmentation using K-Means Clustering
 
 This project aims to perform customer segmentation using the K-Means clustering algorithm to better understand the different types of customers in a given dataset. 
 
-The dataset used for this project is the 'Mall_Customers.csv' dataset, which contains information about customers of a mall.
+      The dataset used for this project is the 'Mall_Customers.csv' dataset, which contains information about customers of a mall.
 
       The 'Mall_Customers.csv' dataset contains the following attributes:
 
@@ -29,7 +29,8 @@ The following steps were taken to perform customer segmentation using the K-Mean
 7. Provide recommendations based on the analysis
 
 
-Conclusion
+Conclusion:
+
 By performing customer segmentation using the K-Means clustering algorithm, we were able to gain valuable insights into the different types of customers and their spending behavior. 
 Based on the cluster characteristics, we provided recommendations for the mall to tailor its marketing strategies to target specific customer segments. 
 It is important for the mall to continuously monitor customer behavior and adjust its marketing strategies accordingly to remain competitive in the market.
