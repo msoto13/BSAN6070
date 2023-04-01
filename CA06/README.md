@@ -8,9 +8,13 @@ Dataset
 The 'Mall_Customers.csv' dataset contains the following attributes:
 
   CustomerID: Unique ID for each customer
+  
   Gender: Male or Female
+  
   Age: Age of the customer
+  
   Annual Income (k$): Annual income of the customer in thousands of dollars
+  
   Spending Score (1-100): A score assigned by the mall based on customer behavior and spending nature (higher scores indicate higher spending)
   
 The dataset was downloaded from the following link:
